@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CS4347 Project</string>
+    <string name="add_button">New Instrument</string>
+    <string name="pick_instrument">Pick an instrument</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string-array name="instrument_list">
+        <item>Piano</item>
+        <item>Guitar</item>
+        <item>Trumpet</item>
+        <item>Organ</item>
+    </string-array>
+</resources>
